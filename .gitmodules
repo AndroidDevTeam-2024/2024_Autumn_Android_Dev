@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:AndroidDevTeam-2024/app.git
+[submodule "web"]
+	path = web
+	url = git@github.com:AndroidDevTeam-2024/web.git
